@@ -1,4 +1,5 @@
-There are four programming questions and one ethics- or privacy-related question.
+There are four programming questions and one ethics- or privacy-related question. The programming questions are ordered by difficulty.
+
 To get full credit for this lab, students must:
 
 1. Complete the ethics matrix with at least one other person's discussion,
