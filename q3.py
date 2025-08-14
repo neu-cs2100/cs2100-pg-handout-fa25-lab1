@@ -1,3 +1,7 @@
+"""
+Please implement these stub functions to match the documentation.
+"""
+
 def validate_password(password: str) -> bool:
     """Determines whether a password meets the requirements. If any requirements
     are not met, prints which requirements were not met.
