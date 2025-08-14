@@ -14,4 +14,7 @@ Please fill out this table about the information collected. (Some parts are alre
 
 Then, please answer these two questions:
 1. Who is one potential unintended recipient of this data?
-2. How might this housing application be redesigned to minimize the number of unintended recipients of that information?
+YOUR ANSWER HERE
+
+3. How might this housing application be redesigned to minimize the number of unintended recipients of that information?
+YOUR ANSWER HERE
