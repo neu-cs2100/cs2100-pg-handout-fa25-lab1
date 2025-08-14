@@ -1,4 +1,8 @@
+"""
+Please implement these stub functions to match the documentation.
+"""
 
+# Relevant information:
 # Federal income tax rates:  https://www.irs.gov/filing/federal-income-tax-rates-and-brackets
 # California income tax rates: https://www.hrblock.com/tax-center/filing/states/california-tax-rates
 # Massachusetts income tax rate: 5% for everyone
