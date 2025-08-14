@@ -1,3 +1,8 @@
+"""
+Please implement these stub functions to match the documentation.
+"""
+
+
 def fahrenheit_to_celsius(fahrenheit: float) -> float:
     """Converts Fahrenheit to Celsius
 
