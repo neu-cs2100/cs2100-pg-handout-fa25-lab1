@@ -1,5 +1,7 @@
 """
 Please implement these stub functions to match the documentation.
+
+The formula to convert Fahrenheit to Celsius is: C = (F - 32) * 5/9 where C is the temperature in Celsius and F is the temperature in Fahrenheit.
 """
 
 
