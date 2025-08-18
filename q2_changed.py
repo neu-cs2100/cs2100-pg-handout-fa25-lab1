@@ -1,5 +1,13 @@
 """
-Please implement these stub functions to match the documentation.
+This question has two parts:
+
+Part 1: Please implement these stub functions to match the documentation.
+It will be useful to use a list to store the "threshold" for each tax bracket, 
+and use a loop to go over it and find the right tax bracket.
+
+Part 2: The California, New York, and Federal tax functions should have code in common.
+Factor it out into a helper function, so that the code is not repeated, but the functionality
+remains the same.
 """
 
 # Relevant information:
