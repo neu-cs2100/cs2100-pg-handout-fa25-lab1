@@ -46,8 +46,8 @@ jobs:
             python-version: '3.10'
             cache: 'pip'
             
-      - name: Install dependencies
-        run: pip install -r requirements.txt    
+     # - name: Install dependencies
+     #   run: pip install -r requirements.txt    
         
       - name: Collect Submission and Run Grader
         uses: pawtograder/assignment-action@v3 # Update version here
